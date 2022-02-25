@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A private prayer to be used in difficult times</title>
+            <author>Patrick, Simon, 1626-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56690</idno>
+            <idno type="STC">Wing P834</idno>
+            <idno type="STC">ESTC R33029</idno>
+            <idno type="EEBO-CITATION">12851276</idno>
+            <idno type="OCLC">ocm 12851276</idno>
+            <idno type="VID">94526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1038:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A private prayer to be used in difficult times</title>
+                  <author>Patrick, Simon, 1626-1707.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ric. Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXVII [1687]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing to Simon Patrick.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:94526:1"/>
+            <pb facs="tcp:94526:1" rendition="simple:additions"/>
+            <head>A PRIVATE PRAYER To be uſed In Difficult Times.</head>
+            <p>O Almighty God, who art the refuge and ſtrength of all thoſe that truly fear thee and put their truſt in thee; We thy Servants, who have had long experience of thy goodneſs, and often found thee a preſent help in the need<g ref="char:EOLhyphen"/>ful time of trouble, moſt humbly flee unto thy infinite Mercies, to implore thy Grace and Favour towards us, in this diſtreſſed Church: Who know not what to do, but only lift up our eyes unto thee, from whom cometh our Salvation.</p>
+            <pb facs="tcp:94526:2"/>
+            <p>Our ſins indeed teſtifie againſt us, that we juſtly deſerve to be forſaken by thee, and given up as a prey unto thoſe that hate us. For we have done very wickedly; and been ſo far from bringing forth the fruits of the Goſpel of thy Grace (which we have long enjoyed in its purity) that too many of us have turn'd it into wanton<g ref="char:EOLhyphen"/>neſs: and the beſt of us, have not been ſo zealous of Good Works as our moſt Holy Religion, and the ſingu<g ref="char:EOLhyphen"/>lar benefits we have enjoyed by it, re<g ref="char:EOLhyphen"/>quired from us.</p>
+            <p>Our contempt or neglect of thy Divine Service, our Unrighteouſneſs and Uncharitableneſs one towards another, our Riot and Intemperance, our Filthineſs and Uncleanneſs, our inſenſibleneſs of our Brethrens mi<g ref="char:EOLhyphen"/>ſeries, and all our other high Pro<g ref="char:EOLhyphen"/>vocations, call for Vengeance upon us: And it is of thy mere mercy, thy long-ſuffering mercy, that we are not already laid waſte, and made the ſcorn <pb facs="tcp:94526:2"/>and deriſion of thoſe who are round about us.</p>
+            <p>Unto that inconceiveable Mercy and moſt tender Compaſſion, we ſtill betake our ſelves, and ſue for further patience and forbearance towards us: beſeeching thee with earneſt Cryes; Spare us, good Lord; ſpare thy people, and give us not up unto a Reproach.</p>
+            <p>Remember not our ſins nor our tranſgreſſions, but according to thy mercy, remember thou us for thy goodneſs ſake, O Lord.</p>
+            <p>For thy names ſake pardon our iniquity: though it be great.</p>
+            <p>Look upon our affliction and our trouble: and forgive all our ſin.</p>
+            <p>Conſider our Enemies, for they are many: and they hate us with a cruel hatred.</p>
+            <p>But do not thou forſake us, O Lord; O our God be not thou far from us: But preſerve us in the free <pb facs="tcp:94526:3"/>and undiſturbed profeſſion of thy Holy Religion, here eſtabliſhed a<g ref="char:EOLhyphen"/>mong us.</p>
+            <p>Suffer not the Doctrine of the Goſpel to be here again corrupted; thy Worſhip and Service adultera<g ref="char:EOLhyphen"/>ted; the Holy Communion of Chriſt's Body and Blood depraved, and maimed; the juſt rights and li<g ref="char:EOLhyphen"/>berties of this Church to be oppreſ<g ref="char:EOLhyphen"/>ſed by any of thoſe who have evil will unto It.</p>
+            <p>But preſerve us, O Lord, from their evil deſigns, for thy mercies ſake, for thy holy truths ſake (here reformed from many ſuperſtitions, wherewith it was defiled) for the ſake of thy faithful people, who cry Day and Night unto thee, for the ſake of Chriſt Jeſus, who dyed for us, and ſuffered upon the Croſs to teſtifie to that truth, which we maintain: whom we own for our only Mediator and Advocate; whoſe Sacrifice, once offered, we believe <pb facs="tcp:94526:3"/>to be an all-ſufficient ſatisfaction for us; whoſe merits alone we men<g ref="char:EOLhyphen"/>tion to thee, and depend upon; by whoſe Agony and Bloody ſweat, his Croſs and Paſſion, Reſurrection and Interceſſion, we beg to be de<g ref="char:EOLhyphen"/>livered by thee.</p>
+            <p>Deny not, bleſſed Lord, the ſuits of ſuch Supplicants: let them never be put to Confuſion; but deliver them in thy righteouſneſs, bow down thy ears unto them, and make haſte to deliver them. Be thou their ſtrong Rock and Houſe of defence that thou mayeſt ſave them.</p>
+            <p>And for that end, ſtir up the hearts of all thy people to be more than ordinary Zealous in their Re<g ref="char:EOLhyphen"/>ligion; more fervent and frequent in Prayers and Supplications; more ſerious in their Repentance and Humiliations; more conſtant and devout in receiving the Holy Com<g ref="char:EOLhyphen"/>munion; more ſtrict and carefull <pb facs="tcp:94526:4"/>in their whole Chriſtian Conver<g ref="char:EOLhyphen"/>ſation.</p>
+            <p>Endue all the Miniſters of our Religion, with Integrity, Wiſdom, and Courage. Bleſs their Labours; and protect them in the faithful diſ<g ref="char:EOLhyphen"/>charge of their Duty. And give all the people grace to follow their godly inſtructions; that they may be preſerved from all dangerous er<g ref="char:EOLhyphen"/>rors and deluſions.</p>
+            <p>Quicken the Magiſtrates in their ſeveral places, to maintain Truth, as well as execute Juſtice.</p>
+            <p>Reſtore a happy unity among us; that we may ſtand faſt in one ſpirit, with one mind, ſtriving together for the faith of the Goſpel.</p>
+            <p>And let it not be in the power of any of our enemies to overthrow that bleſſed work of Reformation of Religion, which was brought about by the long ſtudy, and labours, and prayers, and ſufferings, and blood of many of thy faithful ſervants. <pb facs="tcp:94526:4"/>But perfect and compleat it, we be<g ref="char:EOLhyphen"/>ſeech thee, by making us all ſo ſen<g ref="char:EOLhyphen"/>ſible of the ineſtimable value of that bleſſing, that it may be more and more effectual in the Reformation of all our lives.</p>
+            <p>Continue thy protection alſo over all other reformed Churches; which hitherto are in ſafety. And where they are laid waſte, graciouſly re<g ref="char:EOLhyphen"/>ſtore them, after they have ſuffered a while with patience, to their loſt liberties and enjoyments.</p>
+            <p>Hear their cry, O Lord, and ariſe for the ſighing of thoſe poor diſtreſ<g ref="char:EOLhyphen"/>ſed Chriſtians: and ſet them in ſafe<g ref="char:EOLhyphen"/>ty from thoſe who ſwell againſt them.</p>
+            <p>Let the wickedneſs of the wicked come to an end: and eſtabliſh thou the juſt.</p>
+            <p>Break the arm of wicked and evil Men: ſeek out their wickedneſs, till thou find none.</p>
+            <p>So we thy People and Sheep of thy Paſture, will give thee thanks <pb facs="tcp:94526:5" rendition="simple:additions"/>for ever: we will ſhow forth thy praiſe to all Generations, ſaying,</p>
+            <p>Bleſſed be the Lord God, our Sa<g ref="char:EOLhyphen"/>viour and Deliverer, who only doth wondrous things.</p>
+            <p>And bleſſed be his glorious name for ever, and let the whole Earth be filled with his Glory, <hi>Amen,</hi> and <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license_to_print">
+            <p>LICENSED,</p>
+            <closer>
+               <date>
+                  <hi>July</hi> 5. 1687.</date>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Ric. Chiſwell,</hi> MDCLXXXVII.</p>
+            <pb facs="tcp:94526:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
